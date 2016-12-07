@@ -1,0 +1,527 @@
+/*
+ * Dit is de custom style sheet van jouw website
+ *
+ */
+
+body {
+
+margin: 0;
+padding: 0;
+background-color: deepskyblue;
+
+
+
+
+}
+
+.test {
+
+margin: 0 auto;
+
+background-color: azure;
+width: 40%;
+
+border-radius: 10px;
+
+
+}
+
+#test2 {
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+#test3 {
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+#test4 {
+width: 98%;
+height: 24vw;
+margin-left: 1%;
+
+
+}
+#pepetitel {
+margin-left: 4%;
+margin-right: 4%;
+font-style: italic;
+font-family: Arial black,arial-black,sans-serif;
+
+font-size: 2.5em;
+}
+
+
+
+.navbar {
+
+background-color: grey;
+float: right;
+margin-top: 50px;
+margin-right: 10%;
+
+
+}
+.desc {
+
+	background-color: #fff;
+	border: 1px solid #000;
+	position: absolute;
+	margin-left: 100px;
+	margin-top: -20px;
+	width: 200px;
+
+}
+
+.balk {
+
+background-color: black;
+height: 40px;
+
+
+
+
+
+
+}
+
+.w3-container {
+background-color: black;
+
+
+
+}
+
+.w3-navbar {
+
+margin-left: 15%;
+
+}
+
+
+.ron {
+
+	background-color: white;
+	width: 30%;
+
+	margin: 0 auto;;
+
+	border-radius: 10px;
+margin-top: 10px;
+
+
+
+}
+
+#ronnie {
+	width: 60%;
+
+	margin-left: 20%;
+	border-radius: 10px;
+	margin-top: 10px;
+}
+
+#ronnietext {
+text-align: center;
+
+
+}
+
+#ronniebio {
+
+text-align: center;
+
+}
+
+.reus {
+	background-color: yellow;
+	width: 30%;
+
+	margin: 0 auto;;
+
+	border-radius: 10px;
+margin-top: 10px;
+
+
+}
+
+#reussie {
+	width: 60%;
+
+	margin-left: 20%;
+	border-radius: 10px;
+	margin-top: 10px;
+}
+
+#reussietext {
+text-align: center;
+
+
+}
+
+#reussiebio {
+
+text-align: center;
+
+}
+
+.mannie	 {
+	background-color: skyblue;
+	width: 30%;
+
+	margin: 0 auto;;
+
+	border-radius: 10px;
+margin-top: 10px;
+
+
+
+}
+
+#mannie1 {
+	width: 60%;
+
+	margin-left: 20%;
+	border-radius: 10px;
+	margin-top: 10px;
+}
+
+#mannie2 {
+text-align: center;
+
+
+}
+
+#mannie3 {
+
+text-align: center;
+
+}
+
+.paris	 {
+	background-color: navy;
+		width: 30%;
+
+		margin: 0 auto;;
+
+		border-radius: 10px;
+	margin-top: 10px;
+
+
+}
+
+#paris1 {
+width: 60%;
+
+margin-left: 20%;
+border-radius: 10px;
+margin-top: 10px;
+}
+
+#paris2 {
+
+text-align: center;
+color: white;
+
+
+}
+
+#paris3 {
+
+text-align: center;
+color: white;
+margin-left: 10px;
+}
+p {
+
+
+
+}
+
+header {
+
+background-color: ;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+
+
+
+}
+
+li {
+    float: left;
+		font-size: 25px;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: darkgrey;
+}
+
+#logo {
+
+height: 70px;
+width: 400px;
+position: absolute;
+z-index: 1;
+top: 20%;
+text-align: center;
+
+margin-left: 12%;
+
+}
+
+
+
+
+#hoi {
+float: left;
+
+	position: absolute;
+	z-index: 1;
+	top: 60%;
+margin-left: 21%;
+
+font-weight: bold;
+text-decoration: inherit; ;;
+text-shadow: 0px 2px 19px rgba(179, 161, 150, 1);
+font-style: oblique;;
+color: white;
+border-color: black;
+letter-spacing: 1pt;
+word-spacing: 1pt;
+font-size: 15px;
+font-family: sans-serif;, serif;
+line-height: 1;
+}
+
+#footballbanner {
+
+height: 250px;
+width: 1920px;
+
+
+
+
+}
+
+
+section {
+
+
+
+}
+
+
+.Speelschema {
+background-image: url(../images/79c3282e-8036-4fda-8b78-83e3a6d9c2fb.jpg);
+width: 50%;
+height: 540px;
+margin: 0 auto;
+
+border-radius: 10px;
+
+}
+
+.opmaak {
+
+float: left;
+background-color: white;
+text-shadow: 1px 0px 1px #000;
+
+border-radius:3px;
+border-collapse: collapse;
+height: 	40px;
+
+margin-top: 10px;
+margin-left: 30px;
+
+max-width: 400px
+padding:5px;
+
+
+
+box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+animation: float 5s infinite;
+}
+
+
+.opmaak1 {
+
+float: right;;
+background-color: white;
+
+
+border-radius:3px;
+border-collapse: collapse;
+height: 	40px;
+
+margin-top: 10px;
+margin-right: 10px;
+
+max-width: 400px
+padding:5px;
+
+
+
+box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+animation: float 5s infinite;
+}
+hr1 {
+width: 200px;
+
+
+}
+
+#titel {
+text-align: center;
+
+
+}
+
+#champ {
+
+width: 5%;
+height: 5%;
+margin-left: 48%;
+margin-top: 10px;
+}
+
+#over {
+text-shadow: 1px 1px 1px #000;
+
+color: white;
+text-align: center;
+
+
+}
+
+
+.image {
+
+
+width: 100%;
+
+overflow: hidden;
+top: 200px;
+
+
+}
+
+
+#li {
+height: 150px;
+
+background-color: dodgerblue;
+
+
+position: relative;
+overflow: hidden
+
+
+
+}
+
+
+#contact {
+
+
+	float: right;
+	font-size: 20px;
+}
+
+#contact1 {
+float: right;
+margin-top: 15px;
+margin-right: 10px;
+
+
+}
+
+.as {
+
+	    width: 30%;
+	    height: 400px;
+	    margin: 10px;
+			margin: 0 auto;
+	    border: 3px solid black	;
+			margin-top: 10px;
+
+}
+
+#df {
+
+background-color: white;
+
+}
+
+#videoinstelling{
+
+margin-left: 5%;
+
+}
+
+#laliga{
+
+text-align: center;
+text-shadow: 0px 2px 19px rgba(179, 161, 150, 1);
+
+}
+
+#ligadate {
+
+	text-align: center;
+}
+
+
+#overimages {
+
+margin-left: 34%;
+
+}
+
+
+#overtitel {
+
+margin-left: 35%;
+margin-right: 35%;
+
+
+}
+
+.bigscreen {
+
+background-color: black;
+
+}
+
+
+#vid1 {
+
+width="100%";
+
+ height="100%";
+
+}
+
+#gareth {
+
+
+margin-left: 1.5vw;
+
+}
